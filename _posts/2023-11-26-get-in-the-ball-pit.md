@@ -1,0 +1,14 @@
+# Get in the Ball Pit
+
+There's an XKCD post that I think about sometimes, when I'm going about my activities as a graduate student. The central point, in my eyes, is that there comes a point when you inhabit certain roles as a person and an adult, and one of the privilages of that is that you get to inhabit them in the way that you want to inhabit them, you are allowed to bring to it whatever style and whatever aesthetic you choose, so long as you actually take care of your responsibilities.
+
+<img class="img-fluid" src="https://xkcd.com/150/" alt="It's a good one.">
+<span class="caption text-muted">Love the hand drawn look as well.</span>
+
+I spent a lot of time reading materials about graduate school before attending, so I had built up an elaborate idea of what things were and how they were supposed to go. I never anticipated that I would actually be there and get to choose what I said and did!
+
+A small example of this was my time trying to colaborate with the other students. There's a Simon Clark video that I really love, where he talks about overcoming burnout over the course of taking a course in quantum physics. He talks about what seems like a pretty common failure mode among students: holing up all alone and suffering through the material in silence.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDI9WTvSUwI?si=7BoMPvwJdF7G0RvL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I went into this program with that video at the front of mind. It made me abosolutely intent on colaborating with others, despite my difficultly with doing so. I'm glad to be here, and I'm excited to make some choices that reflect that.
